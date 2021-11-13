@@ -1,0 +1,12 @@
+/home/nemanja/Documents/JobInterview/AvailableProductsLibrary/bin/Debug/net5.0/AvailableProductsLibrary.deps.json
+/home/nemanja/Documents/JobInterview/AvailableProductsLibrary/bin/Debug/net5.0/AvailableProductsLibrary.dll
+/home/nemanja/Documents/JobInterview/AvailableProductsLibrary/bin/Debug/net5.0/ref/AvailableProductsLibrary.dll
+/home/nemanja/Documents/JobInterview/AvailableProductsLibrary/bin/Debug/net5.0/AvailableProductsLibrary.pdb
+/home/nemanja/Documents/JobInterview/AvailableProductsLibrary/obj/Debug/net5.0/AvailableProductsLibrary.csproj.AssemblyReference.cache
+/home/nemanja/Documents/JobInterview/AvailableProductsLibrary/obj/Debug/net5.0/AvailableProductsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/nemanja/Documents/JobInterview/AvailableProductsLibrary/obj/Debug/net5.0/AvailableProductsLibrary.AssemblyInfoInputs.cache
+/home/nemanja/Documents/JobInterview/AvailableProductsLibrary/obj/Debug/net5.0/AvailableProductsLibrary.AssemblyInfo.cs
+/home/nemanja/Documents/JobInterview/AvailableProductsLibrary/obj/Debug/net5.0/AvailableProductsLibrary.csproj.CoreCompileInputs.cache
+/home/nemanja/Documents/JobInterview/AvailableProductsLibrary/obj/Debug/net5.0/AvailableProductsLibrary.dll
+/home/nemanja/Documents/JobInterview/AvailableProductsLibrary/obj/Debug/net5.0/ref/AvailableProductsLibrary.dll
+/home/nemanja/Documents/JobInterview/AvailableProductsLibrary/obj/Debug/net5.0/AvailableProductsLibrary.pdb
