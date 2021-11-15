@@ -5,7 +5,7 @@ namespace AvailableProductsLibrary{
         public Guid Id{get; set;}
         public string Name{get; set;}
         public byte Markup{get; set;}
-        public List<Products> ListOfProducts {get; set;}
+        public List<Products> ListOfProducts {get; set;} = new List<Products>();
         
     }
 }
